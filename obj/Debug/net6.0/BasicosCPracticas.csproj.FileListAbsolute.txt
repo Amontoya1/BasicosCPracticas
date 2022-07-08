@@ -1,0 +1,15 @@
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\bin\Debug\net6.0\BasicosCPracticas.exe
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\bin\Debug\net6.0\BasicosCPracticas.deps.json
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\bin\Debug\net6.0\BasicosCPracticas.runtimeconfig.json
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\bin\Debug\net6.0\BasicosCPracticas.dll
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\bin\Debug\net6.0\BasicosCPracticas.pdb
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.csproj.AssemblyReference.cache
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.AssemblyInfoInputs.cache
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.AssemblyInfo.cs
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.csproj.CoreCompileInputs.cache
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.dll
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\refint\BasicosCPracticas.dll
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.pdb
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\BasicosCPracticas.genruntimeconfig.cache
+C:\Users\AndreaJosefinaMontoy\Desktop\C#Open\BasicosCPracticas\BasicosCPracticas\obj\Debug\net6.0\ref\BasicosCPracticas.dll
